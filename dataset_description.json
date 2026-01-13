@@ -31,7 +31,7 @@
     "SourceDatasets": [
         {
             "URL": "https://openneuro.org/datasets/ds006935",
-	    "DOI": "https://doi.org/10.1101/2025.07.21.666058"
+            "DOI": "https://doi.org/10.1101/2025.07.21.666058"
         }
     ],
     "Funding": [
@@ -39,5 +39,5 @@
         "Award ID: DE240101035",
         "Principal Award Recipient: Remika Mito"
     ],
-    "DatasetDOI": "TBC"
+    "DatasetDOI": "doi:10.18112/openneuro.ds006935.v1.1.0"
 }
